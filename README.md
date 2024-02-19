@@ -21,7 +21,7 @@ Hence 24 Electrum words plus 1 extra Electrum word for error checking is suffici
 
 - [Chinese Simplified]()
 - [Dutch]()
-- [English]()
+- [English](https://github.com/SafeKeys/monero-mnemonic-seeds/blob/kickstart/mnemonics/english.md)
 - [Esperanto]()
 - [French]()
 - [German]()
