@@ -31,6 +31,10 @@ Hence 24 Electrum words plus 1 extra Electrum word for error checking is suffici
 - [Spanish](https://github.com/SafeKeys/monero-mnemonic-seeds/blob/kickstart/mnemonics/spanish.md)
 
 
+## What is Monero(XMR)?
+
+- [GetMonero](https://www.getmonero.org/get-started/what-is-monero)
+
 ## Consider supporting us
 
 Any help will always be welcome to help us significantly improve all support for our community.
